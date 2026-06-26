@@ -1,4 +1,4 @@
-[
+"posts":{[
   {
     "id": "8495f61e-3ae1-4c16-bb63-beea3a9e753b",
     "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, ullam et",
@@ -23,4 +23,4 @@
     "image": "https://dummyimage.com/231x144/6e1a36/d6ebeb.png&text=231x144",
     "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای"
   }
-]
+]}
